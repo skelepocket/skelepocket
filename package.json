@@ -10,8 +10,8 @@
         "check": "svelte-check --tsconfig ./tsconfig.json && tsc -p tsconfig.node.json"
     },
     "devDependencies": {
-        "@skeletonlabs/skeleton": "^2.10.3",
-        "@skeletonlabs/tw-plugin": "^0.4.0",
+        "@skeletonlabs/skeleton": "^3.0.0-next.7",
+        "@skeletonlabs/skeleton-svelte": "^1.0.0-next.12",
         "@sveltejs/vite-plugin-svelte": "^4.0.0",
         "@tsconfig/svelte": "^5.0.4",
         "@types/node": "^22.9.0",
